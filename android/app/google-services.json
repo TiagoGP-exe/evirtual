@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900834316153",
+    "project_id": "evirtual-f0ab7",
+    "storage_bucket": "evirtual-f0ab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900834316153:android:0a05553255894f978529a8",
+        "android_client_info": {
+          "package_name": "com.tiago.evirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900834316153-qigeqmn2cp6fvfnlqf9np55m475aal6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3oQsOmf62mjsicKJk45Nrs_z0r94ikE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900834316153-qigeqmn2cp6fvfnlqf9np55m475aal6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
